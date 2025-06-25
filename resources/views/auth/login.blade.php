@@ -46,6 +46,9 @@
                     <input type="password" class="form-control" id="password" name="password" required>
                 </div>
                 <button type="submit" class="btn btn-primary w-100">Login</button>
+                <p class="text-center" style="padding: 10px">Akses Demo</p>
+                <p>Email : test@example.com</p>
+                <p>Password : 12345</p>
             </form>
         </div>
     </div>
